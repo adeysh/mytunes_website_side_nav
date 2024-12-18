@@ -306,6 +306,14 @@ footer {
     font-weight: lighter;
 }
 
+.hamburger_icon {
+    display: none;
+}
+
+.sidenav {
+    display: none;
+}
+
 
 @media (min-width: 320px) and (max-width: 480px) {
     .title h2 {
