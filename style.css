@@ -403,6 +403,14 @@ footer {
         display: none;
     }
 
+    .hamburger_icon {
+        display: block;
+    }
+
+    .sidenav {
+        display: block;
+    }
+
     .hamburger_icon i {
         font-size: 20px;
         cursor: pointer;
